@@ -1,0 +1,15 @@
+{
+    "name": "vendor/xiaogu",
+    "description": "lessphp framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yeqb",
+            "email": "yeqb@ecqun.com"
+        }
+    ],
+    "require": {
+        "aliyuncs/oss-sdk-php": "^2.2"
+    }
+}
