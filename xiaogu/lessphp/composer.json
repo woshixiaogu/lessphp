@@ -1,0 +1,21 @@
+{
+    "name": "xiaogu lessphp framework",
+    "description": "小鼓自研轻量级框架",
+    "homepage": "http://www.omooc.com",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaogu",
+            "homepage": "http://omooc.com"
+        }
+    ],
+    "require": {
+        "php":">=5.4"
+    },
+
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"Lessphp\\": "src/Lessphp/"}
+    }
+}

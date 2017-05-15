@@ -1,5 +1,5 @@
 {
-    "name": "vendor/xiaogu",
+    "name": "xiaogu/lessphp",
     "description": "lessphp framework",
     "type": "library",
     "license": "MIT",
